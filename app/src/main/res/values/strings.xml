@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أمان للديون</string>
+    <string name="no_internet_title">لا يوجد اتصال بالإنترنت</string>
+    <string name="no_internet_message">يحتاج التطبيق اتصالاً بالإنترنت عند أول تشغيل لتحميل بعض مكوّنات الواجهة. تحقق من الاتصال وحاول مرة أخرى.</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="file_saved">تم حفظ الملف في مجلد التنزيلات</string>
+    <string name="file_save_failed">تعذر حفظ الملف</string>
+</resources>

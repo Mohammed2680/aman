@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   بيانات التطبيق (العملاء/الديون/الإعدادات) مخزّنة داخل WebView (localStorage)
+   ولذلك نسمح بنسخها احتياطياً ضمن نسخ أندرويد الاحتياطية التلقائية.
+-->
+<full-backup-content>
+    <include domain="file" path="webview/" />
+</full-backup-content>
