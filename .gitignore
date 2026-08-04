@@ -1,0 +1,42 @@
+# === Gradle ===
+.gradle/
+build/
+app/build/
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# === Local configuration ===
+local.properties
+
+# === Android Studio / IntelliJ ===
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# === Android ===
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+
+# === Keystore (لا ترفع مفاتيح التوقيع أبدًا) ===
+*.jks
+*.keystore
+
+# === Logs & OS ===
+*.log
+.DS_Store
+Thumbs.db
+
+# === Build outputs ===
+release/
